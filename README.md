@@ -4,5 +4,6 @@
 - Vite
 - React
 - TailwindCSS
+- Daisy UI
 - Jotai
 - React Router
